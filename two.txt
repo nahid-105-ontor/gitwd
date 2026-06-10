@@ -1,2 +1,4 @@
 hello hi i am Nahid
-arekta two
+<<<<<<< HEAD
+duii duii
+>>>>>>> staging
